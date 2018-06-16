@@ -19,7 +19,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_173202_loaner_re.admin</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>db3bdebfdbca13003990793ebf96194b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open (active)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_173202_loaner_re">ad494a77db8613003990793ebf961975</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Loaner Request">ad494a77db8613003990793ebf961975</sys_scope>
         <sys_update_name>sys_app_module_db3bdebfdbca13003990793ebf96194b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-20 11:28:55</sys_updated_on>
+        <sys_updated_on>2018-06-16 12:40:44</sys_updated_on>
         <timeline_page/>
         <title>Open (active)</title>
         <uncancelable>false</uncancelable>
