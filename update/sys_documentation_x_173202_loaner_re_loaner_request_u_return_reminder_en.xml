@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_return_reminder" label="Return Reminder" language="en" table="x_173202_loaner_re_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_return_reminder</element>
+            <help/>
+            <hint/>
+            <label>Return Reminder</label>
+            <language>en</language>
+            <name>x_173202_loaner_re_loaner_request</name>
+            <plural>Return Reminders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 16:53:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7be5bbcfdbb253003990793ebf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Return Reminder</sys_name>
+            <sys_package display_value="Loaner Request" source="x_173202_loaner_re">ad494a77db8613003990793ebf961975</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Loaner Request">ad494a77db8613003990793ebf961975</sys_scope>
+            <sys_update_name>sys_documentation_x_173202_loaner_re_loaner_request_u_return_reminder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 16:53:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

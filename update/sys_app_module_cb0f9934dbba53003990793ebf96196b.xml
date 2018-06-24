@@ -7,40 +7,40 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Create a new loaner request</hint>
+        <hint/>
         <homepage/>
         <image/>
         <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_173202_loaner_re_loaner_request</name>
-        <order>100</order>
+        <name/>
+        <order>700</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=12575c17db3653003990793ebf961901</query>
+        <query>system_properties_ui.do?sysparam_title=Loaner%20Request%20Properties&amp;sysparam_category=Loaner Request</query>
         <report/>
-        <roles>x_173202_loaner_re.loaner_request_user,x_173202_loaner_re.admin</roles>
+        <roles>x_173202_loaner_re.admin</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-20 11:25:28</sys_created_on>
+        <sys_created_on>2018-06-17 06:13:20</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>415a5a37dbca13003990793ebf9619f1</sys_id>
+        <sys_id>cb0f9934dbba53003990793ebf96196b</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_173202_loaner_re">ad494a77db8613003990793ebf961975</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Loaner Request">ad494a77db8613003990793ebf961975</sys_scope>
-        <sys_update_name>sys_app_module_415a5a37dbca13003990793ebf9619f1</sys_update_name>
+        <sys_update_name>sys_app_module_cb0f9934dbba53003990793ebf96196b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-24 20:07:02</sys_updated_on>
+        <sys_updated_on>2018-06-18 10:08:40</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

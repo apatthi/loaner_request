@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Numbers of hours before a reservation ends to send a reminder to the requestor</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_173202_loaner_re.return.remindtime</name>
+        <read_roles>x_173202_loaner_re.admin</read_roles>
+        <suffix>return.remindtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 05:38:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2ff719fcdb7a53003990793ebf961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_173202_loaner_re.return.remindtime</sys_name>
+        <sys_package display_value="Loaner Request" source="x_173202_loaner_re">ad494a77db8613003990793ebf961975</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Loaner Request">ad494a77db8613003990793ebf961975</sys_scope>
+        <sys_update_name>sys_properties_2ff719fcdb7a53003990793ebf961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 05:38:35</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_173202_loaner_re.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=2ff719fcdb7a53003990793ebf961975"/>
+</record_update>

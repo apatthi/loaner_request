@@ -43,6 +43,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-05-30 16:45:45</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 16:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3e5bbcfdbb253003990793ebf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_173202_loaner_re_loaner_request" name="x_173202_loaner_re_loaner_request" sys_domain="global" view="Default view">2ea66a4fdb1213003990793ebf9619ec</sys_ui_form>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_173202_loaner_re_loaner_request" sys_domain="global" view="Default view">b7e5bbcfdbb253003990793ebf961977</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 16:53:56</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_173202_loaner_re_loaner_request</name>
             <roles/>
